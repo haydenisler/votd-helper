@@ -1,0 +1,29 @@
+.cell{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+.top{
+    background-color: aquamarine;
+    /* flex-grow: 1; */
+    width: 100%;
+    height: 50%;
+}
+
+.bottom{
+    background-color: brown;
+    /* flex-grow: 1; */
+    width: 100%;
+    height: 50%;
+}
+
+.cell img {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}
