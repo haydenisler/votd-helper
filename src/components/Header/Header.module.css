@@ -1,7 +1,13 @@
 .header {
   flex-shrink: 0;
-  padding: 1rem;
+  padding: 1rem 2rem;
   display: flex;
+  justify-content: space-between;
   flex-direction: row;
   align-items: center;
+}
+
+.logo {
+  size: 2rem;
+  font-weight: 600;
 }
