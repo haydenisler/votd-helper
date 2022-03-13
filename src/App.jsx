@@ -1,11 +1,11 @@
 import './styles/App.css';
-import { RoomSymbols, RoomSymbol } from './components';
+import { Header, RoomSymbols, RoomSymbol } from './components';
 
 function App() {
 
   return (
     <div className='app-container'>
-      <nav className='app-header'></nav>
+      <Header />
       <main className='app-main'>
         Hi
       </main>
@@ -13,4 +13,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

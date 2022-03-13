@@ -4,14 +4,6 @@
   flex-direction: column;
 }
 
-.app-header {
-  flex-shrink: 0;
-  padding: 1rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
 .app-main {
   flex-grow: 1;
 }
