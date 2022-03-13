@@ -1,13 +1,30 @@
 .header {
   flex-shrink: 0;
-  padding: 1rem 2rem;
   display: flex;
   justify-content: space-between;
   flex-direction: row;
   align-items: center;
+  border-bottom: 1px solid var(--dark-600);
+  background-color: var(--dark-800);
 }
 
-.logo {
-  size: 2rem;
+.logo-container {
+  padding: 1rem 10rem 1rem 2rem;
+  background-position: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-text {
+  font-size: 1.25rem;
+  margin: 0 0 0 0.75rem;
+  color: white;
   font-weight: 600;
+}
+
+.logo-image {
+  width: 4rem;
+  height: 4.72rem;
 }
