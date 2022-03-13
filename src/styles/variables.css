@@ -1,7 +1,12 @@
 :root {
-  --background-color: #001514;
-  --text-color: #ffffff;
-  --hard-accent-color: #f95738;
-  --medium-accent-color: #ee964b;
-  --soft-accent-color: #72a276;
+  --dark-50: #fafaf9;
+  --dark-100: #f5f5f4;
+  --dark-200: #e7e5e4;
+  --dark-300: #d6d3d1;
+  --dark-400: #a8a29e;
+  --dark-500: #78716c;
+  --dark-600: #57534e;
+  --dark-700: #44403c;
+  --dark-800: #292524;
+  --dark-900: #1c1917;
 }

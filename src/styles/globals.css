@@ -1,5 +1,6 @@
 body {
   margin: 0;
-  background-color: var(--background-color);
+  color: #ffffff;
+  background-color: var(--dark-900);
   font-family: 'Inter var', Arial, Helvetica, sans-serif;
 }
