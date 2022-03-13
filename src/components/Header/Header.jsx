@@ -1,6 +1,6 @@
 import styles from './Header.module.css';
 import raidImg from '../../assets/raid.png';
-import fleetImg from '../../assets/witness.png';
+import fleetImg from '../../assets/fleet.png';
 
 export const Header = () => {
   return(
