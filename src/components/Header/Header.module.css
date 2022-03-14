@@ -10,7 +10,7 @@
 
 .logo-container {
   position: relative;
-  padding: 1rem 12rem 1rem 2rem;
+  padding: 1rem 25rem 1rem 2rem;
   background-position: center;
   display: flex;
   flex-direction: row;
@@ -22,7 +22,7 @@
 
 .logo-text {
   font-size: 1.25rem;
-  margin: 0 0 0 0.75rem;
+  margin: 0 0 0 3rem;
   color: white;
   font-weight: 600;
 }
